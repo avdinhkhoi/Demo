@@ -264,6 +264,16 @@ font-size: 18px;
     color: #fff;
     font-weight: 300px;
 }
+.contactinfo ul li.link {
+    display: flex;
+}
+.contactinfo ul li .text--link {
+    margin-left: 15px;
+}
+.contactinfo ul li span a {
+    color: #fff;
+    text-decoration: none;
+}
 .education .title {
     color:#fff;
     letter-spacing: 1px;

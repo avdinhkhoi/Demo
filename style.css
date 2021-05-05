@@ -49,7 +49,7 @@ body {
     /* justify-content: space-around; */
     transition: 0.4s cubic-bezier(0.77, 0, 0.175, 1);
     /* box-shadow: -1px 0 5px 0 #011627; */
-    /* z-index: 1000; */
+    z-index: 1000;
 }
 .change {
     right: 0px;
