@@ -10,7 +10,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    
 }
 
 /* Nav bar */
@@ -59,7 +58,7 @@ div.logo a {
 }
 .change {
     right: 0px;
-    box-shadow: -1px 0 15px 0 #333;
+    box-shadow: -1px 0 15px 0 #011627;
 }
 .navmenu {
     width: 35px;
@@ -172,7 +171,7 @@ li>p {
     font-size: 26px;
     color: #56267c;
 }
-h1 {
+/* h1 {
     position: fixed;
     top: 10%;
     left: 50%;
@@ -182,7 +181,7 @@ h1 {
     font-weight: 100;
     letter-spacing: 4px;
     color: #C9DAEA;
-}
+} */
 .container {
     position: relative;
     width: 100%;
@@ -309,5 +308,17 @@ font-size: 18px;
     /* position: relative; */
     background-color: #fff;
     padding: 40px;
+}
+.right--side .about .title2 {
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.right--side .about p {
+    line-height:30px;
+    margin-bottom: 30px;
+}
+.right--side .about span {
+    /* font-size: 18px; */
+    font-weight:600;
 }
 

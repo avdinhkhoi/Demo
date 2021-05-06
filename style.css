@@ -53,7 +53,7 @@ body {
 }
 .change {
     right: 0px;
-    box-shadow: -1px 0 15px 0 #333;
+    box-shadow: -1px 0 15px 0 #011627;
 }
 .navmenu {
     width: 35px;
@@ -175,4 +175,7 @@ h1 {
     font-weight: 100;
     letter-spacing: 4px;
     color: #C9DAEA;
+}
+h1::selection {
+    background-color: #F3A712;
 }
