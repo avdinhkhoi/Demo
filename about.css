@@ -307,7 +307,7 @@ font-size: 18px;
 .container .right--side {
     /* position: relative; */
     background-color: #fff;
-    padding: 40px;
+    padding: 80px;
 }
 .right--side .about {
     color: #003147;
@@ -326,4 +326,3 @@ font-size: 18px;
     font-size: 18px;
     font-weight:600;
 }
-

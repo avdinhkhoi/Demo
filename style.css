@@ -41,7 +41,8 @@ body {
     position: fixed;
     top: 0;
     right: -250px;
-    background-color: rgba(1, 22, 39, 0.98);
+    background-color: rgba(1, 22, 39, 0.97);
+    /* backdrop-filter: blur(25px); */
     display: flex;
     justify-content: center;
     align-items: center;
