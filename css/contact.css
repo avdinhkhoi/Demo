@@ -194,7 +194,7 @@ div.decor::after {
     font-family: 'Nunito', sans-serif;
     letter-spacing: 0.5px;
     position: absolute;
-    background-color:rgba(255, 255, 255, 0.8);
+    background-color:rgba(1, 22, 39, 0.8);
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
@@ -213,25 +213,25 @@ div.decor::after {
 .contact .heading {
     text-align: center;
     font-size: 36px;
-    color: #011627;
+    color: #fff;
 }
 .contact .title {
     font-size: 20px;
-    color: #011627;
+    color: #fff;
     margin-bottom: 10px;
 }
 .contact .text {
     padding-bottom: 10px;
     font-size: 20px;
     font-weight: 400;
-    color: #333;
+    color: #fff;
     min-width: 240px;
 }
 .container2 .contact .contact__name {
     width: 100%;
 }
 .container2 .contact div.contact1 .dc {
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid #fff;
 }
 .container2 .contact .contact__info {
     width: 100%;
@@ -253,7 +253,7 @@ div.decor::after {
     right: 50%;
     transform: translateX(50%);
     cursor: pointer;
-    box-shadow: 2px 5px 10px 3px rgba(51, 51, 51, 0.3);
+    box-shadow: 2px 5px 10px 3px rgba(0, 0, 0, 0.5);
     transition: 0.5s;
 }
 .container2 .btn:hover {
