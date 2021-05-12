@@ -194,7 +194,7 @@ div.decor::after {
     font-family: 'Nunito', sans-serif;
     letter-spacing: 0.5px;
     position: absolute;
-    background-color:rgba(1, 22, 39, 0.8);
+    background-color:rgba(1, 22, 39, 0.5);
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
