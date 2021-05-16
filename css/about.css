@@ -320,23 +320,32 @@ font-size: 18px;
 .language span {
     color: #75B8C8;
 }
+.projects .title {
+    margin-bottom: 20px;
+}
+.projects p {
+    color:  #FFF;
+    font-size: 16px;
+    line-height: 30px;
+}
 .container .right--side {
     /* position: relative; */
     background-color: #fff;
-    padding: 80px;
+    padding: 0 100px;
 }
 .right--side .about {
     color: #003147;
-    margin-top: 80px;
+    margin-top: 30px;
 }
 .right--side .about .title2 {
+    margin-top: 10px;
     text-transform: uppercase;
     margin-bottom: 15px;
 }
 .right--side .about p {
-    font-size: 18px;
+    font-size: 17px;
     line-height:40px;
-    margin-bottom: 30px;
+    /* margin-bottom: 10px; */
 }
 .right--side .about span {
     font-size: 18px;
